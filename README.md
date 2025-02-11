@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ### Most Used Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurosampad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Profile Badge](https://img.shields.io/badge/-yourusername-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub Profile Badge](https://img.shields.io/badge/-yourusername-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aurosampad)
