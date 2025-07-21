@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurosampad-mohanty-15a342222/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Aurosampad)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohantyaurosampad)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox-browser&logoColor=white)](https://aurosampadportfoliofinal2.netlify.app/)
+
 
 ### Most Used Languages:
 
