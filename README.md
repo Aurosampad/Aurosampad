@@ -97,3 +97,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aurosampad&layout=compact&hide_border=true&theme=dark" alt="Top Languages" />
 </p>
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aurosampad&theme=monokai&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🦊 Random Dev Quote
+
+> ❝ Before working on Artificial Intelligence, why dont we work on our Natural Stupidity.* ❞  
+> — **Steve Polyak**
+
+
