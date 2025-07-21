@@ -1,27 +1,71 @@
-## Hi there 👋, I'm Aurosampad Mohanty
+<h1 align="center">Hi there 👋, I'm Aurosampad Mohanty</h1>
+<h3 align="center">AI/ML Software Developer from India</h3>
 
-### AI/ML Software Developer from India
-![Profile Views](https://komarev.com/ghpvc/?username=Aurosampad&color=blue)
-<!--
-**Aurosampad/Aurosampad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aurosampad&label=Profile%20views&color=0e75b6&style=flat" alt="Aurosampad" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m a AI/ML development professional with one year of internship experience in this field.
-- 🌱 I’m currently learning MLOps, DSA and Pytorch.
-- 👯 I’m looking to collaborate on production level projects in AI/ML that makes it function in an end-to-end pipeline.
-- 🤔 I’m looking currently for internships and jobs in the field of AI/ML.
-- ⚡ Fun fact: As a Computer Vision Mentor and a Core Member of the Google Student Developer Clubs(GDSC) of my college, I have guided more than 100+ students in the field of Computer Vision, Deep Learning and Image Processing. I have also served as the AI/ML lead for the core technical club-Zairza of my college
--->
+## 🐣 About Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurosampad-mohanty-15a342222/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Aurosampad)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mohantyaurosampad)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox-browser&logoColor=white)](https://aurosampadportfoliofinal2.netlify.app/)
+- 🛠️ I’m an **AI/ML professional** with 2 years of internship experinece in that field
+- 🧑‍🤝‍🧑 Looking to collaborate on the applications of **AI/ML in various domains like Healthcare, Agriculture, Infrastructure Inspection etc.**
+- 🧠 Currently working on **Design and Optimisation of ML Systems on a Production level pipeline**
+- 📚 Currently learning DSA**
+- 🤖 Ask me anything about **AI/ML Research and Engineering**
+- ⚡ Fun fact: Irrespective of all my experiences, I still am a beginer < 3
+- 🔥 New Emotion: **Silencio** — a quiet storm of relentless ambition.
 
+---
 
-### Most Used Languages:
+## 🌐 Socials:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurosampad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Profile Badge](https://img.shields.io/badge/-yourusername-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aurosampad)
+<p align="left">
+  <a href="https://www.linkedin.com/in/aurosampad-mohanty-15a342222/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Aurosampad">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/yourusername">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://medium.com/@mohantyaurosampad">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://aurosampadportfoliofinal2.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox-browser&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aurosampad&show_icons=true&theme=dark&hide_border=true" alt="Aurosampad's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aurosampad&layout=compact&hide_border=true&theme=dark" alt="Top Languages" />
+</p>
+
