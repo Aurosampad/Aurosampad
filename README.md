@@ -12,7 +12,7 @@
 - 🛠️ I’m an **AI/ML professional** with 2 years of internship experinece in that field
 - 🧑‍🤝‍🧑 Looking to collaborate on the applications of **AI/ML in various domains like Healthcare, Agriculture, Infrastructure Inspection etc.**
 - 🧠 Currently working on **Design and Optimisation of ML Systems on a Production level pipeline**
-- 📚 Currently learning DSA**
+- 📚 Currently learning **DSA**
 - 🤖 Ask me anything about **AI/ML Research and Engineering**
 - ⚡ Fun fact: Irrespective of all my experiences, I still am a beginer < 3
 - 🔥 New Emotion: **Silencio** — a quiet storm of relentless ambition.
